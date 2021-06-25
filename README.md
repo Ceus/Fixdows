@@ -1,5 +1,8 @@
 <h1 align="center"> Fixdows </h1>
 
+# Archived
+I no longer want to maintain Fixdows considering Windows is on a downwards spiral, which makes me want to boycott it. (Just search up Windows 11.) You can maintain it if you want to.
+
 Fixdows is a tool made in C# to repair common issues among Windows computers.
 Sort of a continuation of [Winblows Maintenance Tool](https://github.com/Odyssey346/Winblows-Maintenance-Tool).
 
